@@ -45,4 +45,5 @@ Collate:
     'pgls.RMA.R'
     'plot_mrb.R'
     'Shade_Distributions.R'
+    'unpack_map2stan.R'
 RoxygenNote: 7.0.2
